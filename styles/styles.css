@@ -1,0 +1,57 @@
+h1{
+    font-family: "Pacifico", cursive;
+    color: rgb(233, 200, 116);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 55px;
+    padding: 30px;
+    margin: 20px;
+  }
+  
+
+h2{font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+  }
+
+
+ body{font-family: "Josefin Sans", sans-serif;
+  background-color: rgb(233, 200, 116);
+ }
+
+
+.contenedor{
+  text-align: center;
+  background-color: rgb(163, 67, 67) ;
+  padding-bottom: 70px;
+}
+
+.imagen{
+  width: 300px;
+
+}
+
+.sobremi {
+  text-align: center;
+  background-color: rgb(192, 214, 232);
+  padding-bottom: 50px;
+  padding-top: 10px;
+
+}
+
+.volveralinicio{
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+  padding: 20px;
+  background-color: rgb(163, 67, 67) ;
+}
+
+color: darkblue;
+    background-color: burlywood;
+    border: 3px dashed red;
+    font-family:cursive; font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+    padding: 50px 50px;
+    margin: 10%
