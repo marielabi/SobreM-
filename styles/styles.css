@@ -1,11 +1,12 @@
 h1{
     font-family: "Pacifico", cursive;
-    color: rgb(233, 200, 116);
+    color: rgb(163, 67, 67);
+    background-color: rgb(233, 200, 116);;
     font-weight: 400;
     font-style: normal;
     font-size: 55px;
-    padding: 30px;
-    margin: 20px;
+    border: 5px dashed;
+    padding: 20px
   }
   
 
@@ -16,25 +17,88 @@ h2{font-family: "Pacifico", cursive;
   }
 
 
+
+
  body{font-family: "Josefin Sans", sans-serif;
   background-color: rgb(233, 200, 116);
+ }
+
+ .soy{
+  text-align: center;
+
  }
 
 
 .contenedor{
   text-align: center;
-  background-color: rgb(163, 67, 67) ;
-  padding-bottom: 70px;
+  background-color: rgb(192, 214, 232); ;
+  padding-bottom: 50px;
+  padding-top: 10px;
+
 }
+
+.habilidades{
+  text-align: center;
+}
+
+.contenedor2{
+  background-color: rgb(192, 214, 232);
+  padding-bottom: 50px;
+  padding-top: 10px;
+
+}
+
+.futuro{
+  text-align: center;
+}
+
+.contenedor3{
+  background-color: rgb(192, 214, 232);
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.contenedor4{
+  background-color: rgb(192, 214, 232);
+  padding bottom: 50px;
+  padding-top: 10px;
+}
+
 
 .imagen{
   width: 300px;
 
 }
 
-.sobremi {
+.imagen2{
+  width: 150px
+}
+
+.contenedor-de-imagen{
   text-align: center;
-  background-color: rgb(192, 214, 232);
+}
+
+.imagen3{
+  width: 170px;
+}
+
+.contenedor-de-imagen-2{
+  text-align: center;
+}
+
+.imagen4{
+  width: 180px;
+}
+
+.contenedor-de-imagen-3{
+text-align: center;
+
+}
+
+.sobremi {
+  color: rgb(233, 200, 116);
+  text-align: center;
+  background-color: rgb(163, 67, 67) ;
   padding-bottom: 50px;
   padding-top: 10px;
 
@@ -48,10 +112,4 @@ h2{font-family: "Pacifico", cursive;
   background-color: rgb(163, 67, 67) ;
 }
 
-color: darkblue;
-    background-color: burlywood;
-    border: 3px dashed red;
-    font-family:cursive; font-family: "Josefin Sans", sans-serif;
-    font-size: 40px;
-    padding: 50px 50px;
-    margin: 10%
+
